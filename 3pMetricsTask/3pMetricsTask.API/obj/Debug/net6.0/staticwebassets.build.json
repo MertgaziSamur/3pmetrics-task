@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k9cpTDOugbvJ/3RoND1HA5poWdC32uMvlmVPzQXYBQg=",
+  "Source": "3pMetricsTask.API",
+  "BasePath": "_content/3pMetricsTask.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
