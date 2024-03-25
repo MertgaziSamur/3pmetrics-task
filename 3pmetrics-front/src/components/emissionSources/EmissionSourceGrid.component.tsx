@@ -3,6 +3,7 @@ import { DataGrid } from "@mui/x-data-grid";
 import { GridColDef } from "@mui/x-data-grid/models";
 import moment from "moment";
 import { IEmissionSource } from "../../types/global.typing";
+import "./emissionSources-grid.scss";
 
 const column: GridColDef[] = [
   { field: "Id", headerName: "Id", width: 100 },

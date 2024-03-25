@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hRyqenT4do4psI4QN5NuIrPa1krbZwPWo/VPpgb09BhiJ4Sm4uq10d/TMwgK8fi3aQPS5M3dzScbgCA48s/bIw==",
+  "dgSpecHash": "n2Xwv54S3dvWfSNgYmAkm0dht2HnULHDQuwQBD6dJ+Jn5idxA+BcyBImYY1cozxJWy9Woc62nBk67vlJSime7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\merts\\source\\repos\\3pMetrics\\3pMetricsTask\\3pMetricsTask.Entities\\3pMetricsTask.Entities.csproj",
+  "projectFilePath": "C:\\Users\\merts\\OneDrive\\Masaüstü\\yedek\\3pMetricsTask\\3pMetricsTask.Entities\\3pMetricsTask.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\merts\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\merts\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.28\\microsoft.entityframeworkcore.6.0.28.nupkg.sha512",

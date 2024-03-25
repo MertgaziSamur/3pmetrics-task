@@ -20,12 +20,12 @@ const AddEmissionSource = () => {
       return;
     }
     httpModule
-      .post("/emissionSource", emissionSource)
-      .then((response) => redirect("/emissionSource"))    
+      .post("/emissionSources", emissionSource)
+      .then((response) => redirect("/emissionSources"))    
       .catch((error) => console.log(error));
   };
   const handleClickBackBtn = () => {
-    redirect("/emissionSource");
+    redirect("/emissionSources");
   };
 
 

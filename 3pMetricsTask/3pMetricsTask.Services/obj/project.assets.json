@@ -2086,11 +2086,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\merts\\source\\repos\\3pMetrics\\3pMetricsTask\\3pMetricsTask.Services\\3pMetricsTask.Services.csproj",
+      "projectUniqueName": "C:\\Users\\merts\\OneDrive\\Masaüstü\\yedek\\3pMetricsTask\\3pMetricsTask.Services\\3pMetricsTask.Services.csproj",
       "projectName": "3pMetricsTask.Services",
-      "projectPath": "C:\\Users\\merts\\source\\repos\\3pMetrics\\3pMetricsTask\\3pMetricsTask.Services\\3pMetricsTask.Services.csproj",
+      "projectPath": "C:\\Users\\merts\\OneDrive\\Masaüstü\\yedek\\3pMetricsTask\\3pMetricsTask.Services\\3pMetricsTask.Services.csproj",
       "packagesPath": "C:\\Users\\merts\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\merts\\source\\repos\\3pMetrics\\3pMetricsTask\\3pMetricsTask.Services\\obj\\",
+      "outputPath": "C:\\Users\\merts\\OneDrive\\Masaüstü\\yedek\\3pMetricsTask\\3pMetricsTask.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -2114,11 +2114,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\merts\\source\\repos\\3pMetrics\\3pMetricsTask\\3pMetricsTask.Entities\\3pMetricsTask.Entities.csproj": {
-              "projectPath": "C:\\Users\\merts\\source\\repos\\3pMetrics\\3pMetricsTask\\3pMetricsTask.Entities\\3pMetricsTask.Entities.csproj"
+            "C:\\Users\\merts\\OneDrive\\Masaüstü\\yedek\\3pMetricsTask\\3pMetricsTask.Entities\\3pMetricsTask.Entities.csproj": {
+              "projectPath": "C:\\Users\\merts\\OneDrive\\Masaüstü\\yedek\\3pMetricsTask\\3pMetricsTask.Entities\\3pMetricsTask.Entities.csproj"
             },
-            "C:\\Users\\merts\\source\\repos\\3pMetrics\\3pMetricsTask\\3pMetricsTask.Repositories\\3pMetricsTask.Repositories.csproj": {
-              "projectPath": "C:\\Users\\merts\\source\\repos\\3pMetrics\\3pMetricsTask\\3pMetricsTask.Repositories\\3pMetricsTask.Repositories.csproj"
+            "C:\\Users\\merts\\OneDrive\\Masaüstü\\yedek\\3pMetricsTask\\3pMetricsTask.Repositories\\3pMetricsTask.Repositories.csproj": {
+              "projectPath": "C:\\Users\\merts\\OneDrive\\Masaüstü\\yedek\\3pMetricsTask\\3pMetricsTask.Repositories\\3pMetricsTask.Repositories.csproj"
             }
           }
         }

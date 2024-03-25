@@ -4,6 +4,7 @@ import { GridColDef } from "@mui/x-data-grid/models";
 import moment from "moment";
 import React from "react";
 import { IEmissionPoint } from "../../types/global.typing";
+import "./emissionPoints-grid.scss";
 
 const column: GridColDef[] = [
   { field: "Id", headerName: "Id", width: 100 },

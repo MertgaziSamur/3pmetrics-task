@@ -21,7 +21,7 @@ const AddEmissionFactor = () => {
       return;
     }
     httpModule
-      .post("/emissionFactor", emissionFactor)
+      .post("/emissionFactors", emissionFactor)
       .then((response) => redirect("/emissionFactors"))    
       .catch((error) => console.log(error));
   };

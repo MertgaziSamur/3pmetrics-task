@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\merts\\source\\repos\\3pMetrics\\3pMetricsTask\\3pMetricsTask.Entities\\3pMetricsTask.Entities.csproj": {}
+    "C:\\Users\\merts\\OneDrive\\Masaüstü\\yedek\\3pMetricsTask\\3pMetricsTask.Entities\\3pMetricsTask.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\merts\\source\\repos\\3pMetrics\\3pMetricsTask\\3pMetricsTask.Entities\\3pMetricsTask.Entities.csproj": {
+    "C:\\Users\\merts\\OneDrive\\Masaüstü\\yedek\\3pMetricsTask\\3pMetricsTask.Entities\\3pMetricsTask.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\merts\\source\\repos\\3pMetrics\\3pMetricsTask\\3pMetricsTask.Entities\\3pMetricsTask.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\merts\\OneDrive\\Masaüstü\\yedek\\3pMetricsTask\\3pMetricsTask.Entities\\3pMetricsTask.Entities.csproj",
         "projectName": "3pMetricsTask.Entities",
-        "projectPath": "C:\\Users\\merts\\source\\repos\\3pMetrics\\3pMetricsTask\\3pMetricsTask.Entities\\3pMetricsTask.Entities.csproj",
+        "projectPath": "C:\\Users\\merts\\OneDrive\\Masaüstü\\yedek\\3pMetricsTask\\3pMetricsTask.Entities\\3pMetricsTask.Entities.csproj",
         "packagesPath": "C:\\Users\\merts\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\merts\\source\\repos\\3pMetrics\\3pMetricsTask\\3pMetricsTask.Entities\\obj\\",
+        "outputPath": "C:\\Users\\merts\\OneDrive\\Masaüstü\\yedek\\3pMetricsTask\\3pMetricsTask.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

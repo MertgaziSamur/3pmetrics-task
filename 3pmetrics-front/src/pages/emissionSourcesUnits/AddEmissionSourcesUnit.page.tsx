@@ -21,11 +21,11 @@ const AddEmissionSourcesUnit = () => {
     }
     httpModule
       .post("/emissionSourcesUnits", emissionSourcesUnit)
-      .then((response) => redirect("/emissionSourcesUnit"))    
+      .then((response) => redirect("/emissionSourcesUnits"))    
       .catch((error) => console.log(error));
   };
   const handleClickBackBtn = () => {
-    redirect("/emissionSourcesUnit");
+    redirect("/emissionSourcesUnits");
   };
 
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w5SxeVzA6Q0IbJ8kiaE7qomK455MR6+QAva7glkr8RBy6EezJehzYHxszrDsONrP3bnY8KHje6psb8FcCacxZw==",
+  "dgSpecHash": "qV79Yo1YwCa/9ToLjJOg1CXtyXvH2aZribd7R8RBwCy8L7mv8Sq9zCgqhjGnB3nvCunMTXtihZZhaIKinZGoIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\merts\\source\\repos\\3pMetrics\\3pMetricsTask\\3pMetricsTask.Services\\3pMetricsTask.Services.csproj",
+  "projectFilePath": "C:\\Users\\merts\\OneDrive\\Masaüstü\\yedek\\3pMetricsTask\\3pMetricsTask.Services\\3pMetricsTask.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\merts\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\merts\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

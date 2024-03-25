@@ -22,7 +22,7 @@ const AddEmissionPoint = () => {
       return;
     }
     httpModule
-      .post("/emissionPoint", emissionPoint)
+      .post("/emissionPoints", emissionPoint)
       .then((response) => redirect("/emissionPoints"))    
       .catch((error) => console.log(error));
   };
@@ -34,7 +34,7 @@ const AddEmissionPoint = () => {
   return (
     <div className="content">
       <div className="add-emissionFactor">
-        <h2>Add New Emission Factor</h2>
+        <h2>Add New Emission Point</h2>
         <TextField
           autoComplete="off"
           label="Emission Sources Unit Id"

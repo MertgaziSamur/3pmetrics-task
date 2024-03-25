@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UVHGrpktVLAf+fKRMcDPDjcqajwZm6A+dzUsfbcuYHIGs5SFng1Wd7jijt8IAQGQ6OJSdTqsdzeuFR/tGGHZCw==",
+  "dgSpecHash": "W2ZHsl8AJyR/yB6bbUC3xgEEvBqZwMukGp/KUDecALy+/akaoyrbquR2wZFap7WBL/9unMEr3N5D5lzPrA6r8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\merts\\source\\repos\\3pMetrics\\3pMetricsTask\\3pMetricsTask.Repositories\\3pMetricsTask.Repositories.csproj",
+  "projectFilePath": "C:\\Users\\merts\\OneDrive\\Masaüstü\\yedek\\3pMetricsTask\\3pMetricsTask.Repositories\\3pMetricsTask.Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\merts\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\merts\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
